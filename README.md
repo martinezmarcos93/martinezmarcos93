@@ -100,20 +100,12 @@ const developer = {
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=martinezmarcos93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff&ring_color=e94560"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=martinezmarcos93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff&ring_color=e94560"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezmarcos93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=martinezmarcos93&theme=tokyonight&hide_border=true&background=0D1117&stroke=E94560&ring=E94560&fire=FF6B35&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=martinezmarcos93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
 ---
@@ -140,22 +132,56 @@ const developer = {
 
 ### 🚀 Proyectos destacados
 
-<p align="center">
-  <a href="https://github.com/martinezmarcos93/software-contabilidad-integrador-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinezmarcos93&repo=software-contabilidad-integrador-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff&icon_color=e94560"/>
-  </a>
-  <a href="https://github.com/martinezmarcos93/AI_NARRATOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinezmarcos93&repo=AI_NARRATOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff&icon_color=e94560"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/martinezmarcos93/psyche_simulacra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinezmarcos93&repo=psyche_simulacra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff&icon_color=e94560"/>
-  </a>
-  <a href="https://github.com/martinezmarcos93/cerebro_artificial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinezmarcos93&repo=cerebro_artificial&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff&icon_color=e94560"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI_NARRATOR</h3>
+      <p>Sistema narrador de TTRPG impulsado por LLMs locales. Agentes especializados mantienen la coherencia del mundo mientras un modelo 7B narra en tiempo real.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/AI_NARRATOR">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 psyche_simulacra</h3>
+      <p>Simulación ABM con 100+ individuos psicológicamente complejos que generan jerarquías, símbolos, tabúes y rituales sin guión previo.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/psyche_simulacra">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 cerebro_artificial</h3>
+      <p>Sistema de gestión de conocimiento que aprende por etapas, forma enlaces por impulso interno y materializa conflictos como conocimiento de orden superior.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/cerebro_artificial">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 CyberToolkit</h3>
+      <p>Suite educativa de ciberseguridad con herramientas operativas para aprendizaje práctico en entornos controlados.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/CyberToolkit">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
