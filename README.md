@@ -100,11 +100,6 @@ const developer = {
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=martinezmarcos93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff&ring_color=e94560"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezmarcos93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=martinezmarcos93&theme=tokyonight&hide_border=true&background=0D1117&stroke=E94560&ring=E94560&fire=FF6B35&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
 </p>
 
