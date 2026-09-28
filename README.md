@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:e94560&height=200&section=header&text=Marcos%20Mart%C3%ADnez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Contador%20P%C3%BAblico%20%7C%20Automatizaci%C3%B3n%20Fiscal&descAlignY=56&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:e94560&height=200&section=header&text=Marcos%20Mart%C3%ADnez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Contabilidad%20%7C%20Automatizaci%C3%B3n%20%7C%20IA&descAlignY=56&descAlign=50" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=martinezmarcos93&label=Visitas+al+perfil&color=e94560&style=flat-square" alt="Visitas"/>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=E94560&center=true&vCenter=true&width=680&lines=Automatizaci%C3%B3n+Fiscal+con+Python+%F0%9F%A7%BE;Herramientas+que+reemplazan+horas+de+trabajo+%E2%9A%A1;Contador+P%C3%BAblico+en+formaci%C3%B3n+%F0%9F%93%9A;Python+%2B+SQL+%2B+IA+Local+%F0%9F%A4%96;Desarrollador+Autodidacta+desde+cero+%F0%9F%92%BB;Ituzaing%C3%B3%2C+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=E94560&center=true&vCenter=true&width=680&lines=Software+para+procesos+reales+%F0%9F%92%BB;Automatizaci%C3%B3n+contable+e+impositiva+%F0%9F%A7%BE;Python+%2B+SQL+%2B+IA+%F0%9F%A4%96;Sistemas+de+gesti%C3%B3n+%26+herramientas+educativas+%F0%9F%93%9A;Experimentaci%C3%B3n+computacional+%F0%9F%94%AC;Buenos+Aires%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG"/>
 </p>
 
 ---
@@ -28,14 +28,19 @@
 
 ### 👋 Hola, soy Marcos
 
-Soy **estudiante de Contador Público** en la UNDEF y **desarrollador autodidacta** con foco en Python, bases de datos y automatización aplicada al ámbito contable e impositivo.
+Soy **estudiante de Contador Público, asesor impositivo y desarrollador de software autodidacta**.
 
-Combino formación técnica y experiencia práctica para resolver uno de los mayores problemas de los estudios contables: **la pérdida de tiempo en tareas repetitivas** que deberían tomar minutos, no horas.
+Desarrollo herramientas que combinan **contabilidad, automatización, Python, bases de datos e inteligencia artificial**. También mantengo proyectos de experimentación computacional, educación y sistemas orientados a problemas específicos.
 
-- 🧾 Especialidad: ARCA, IIBB, Libro de Sueldos Digital (CCT 130/75)
-- 🖥️ Todo **local**: sin cloud, sin suscripciones, sin dependencias externas
-- 🤖 Integro IA en herramientas de escritorio con PyQt6 + SQLite
-- 📍 Ituzaingó, Buenos Aires, Argentina
+Mi enfoque es convertir procesos complejos o repetitivos en **software concreto, mantenible y útil**.
+
+- 🧾 Contabilidad, impuestos y automatización administrativa
+- 🖥️ Aplicaciones de escritorio, sistemas de gestión y herramientas web
+- 🐍 Python, SQL y procesamiento de datos
+- 🤖 IA, LLMs y experimentación con sistemas cognitivos
+- 📚 Herramientas y proyectos educativos
+- 🔬 Investigación y experimentación computacional
+- 📍 Buenos Aires, Argentina
 
 <br clear="right"/>
 
@@ -45,16 +50,36 @@ Combino formación técnica y experiencia práctica para resolver uno de los may
 
 ```js
 const developer = {
-  nombre:      "Marcos Martínez",
-  ubicacion:   "Ituzaingó, Buenos Aires 🇦🇷",
-  educacion:   ["Contador Público — UNDEF (2024-presente)", "Python & Data Science — Coderhouse"],
-  roles:       ["Python Developer 🐍", "Asesor Impositivo 🧾", "Automatizador de Procesos ⚡"],
-  stack:       ["Python", "SQL", "PyQt6", "SQLite", "Pandas", "NumPy", "Power BI"],
-  enfoque:     "Automatización contable e impositiva, 100% local",
-  actualmente: ["Estudiando CP en UNDEF", "Desarrollando herramientas fiscales con IA local"],
-  abierto_a:   ["Estudios contables", "Empresas con procesos fiscales", "Proyectos Python"],
-  contacto:    "mm.analistacontable@gmail.com"
-}
+  nombre: "Marcos Martínez",
+  ubicacion: "Buenos Aires, Argentina 🇦🇷",
+  formacion: [
+    "Contador Público — UNDEF",
+    "Python & Data Science — Coderhouse"
+  ],
+  roles: [
+    "Desarrollador de Software",
+    "Asesor Impositivo",
+    "Automatizador de Procesos"
+  ],
+  tecnologias: [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "PyQt6",
+    "SQLite",
+    "Pandas",
+    "NumPy"
+  ],
+  areas: [
+    "Sistemas de gestión",
+    "Automatización contable e impositiva",
+    "IA y LLMs",
+    "Educación",
+    "Experimentación computacional"
+  ],
+  enfoque:
+    "Construir herramientas de software para problemas concretos"
+};
 ```
 
 ---
@@ -70,30 +95,80 @@ const developer = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Datos & Análisis**
+**Datos y aplicaciones**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**GUI & Escritorio**
+**IA y automatización**
 
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite%20DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**IA & Automatización**
-
-![LLM Local](https://img.shields.io/badge/LLM%20Local-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automatizaci%C3%B3n-e94560?style=for-the-badge&logo=python&logoColor=white)
 
-**Contabilidad & Software Fiscal**
+**Contabilidad y software empresarial**
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ARCA](https://img.shields.io/badge/ARCA%2FAFIP-003087?style=for-the-badge&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Tango](https://img.shields.io/badge/Tango-6C3483?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+### 🚀 Proyectos destacados
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 narrador-ttrpg</h3>
+      <p>Sistema narrador para juegos de rol de mesa basado en LLMs locales y agentes especializados para mantener la coherencia del mundo y la narración.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/narrador-ttrpg">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 psyche-simulacra</h3>
+      <p>Simulación basada en agentes con individuos psicológicamente complejos capaces de generar estructuras sociales, símbolos, tabúes y rituales.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/psyche-simulacra">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 cerebro-artificial</h3>
+      <p>Sistema experimental de gestión de conocimiento orientado al aprendizaje progresivo, formación de enlaces y generación de conocimiento de orden superior.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/cerebro-artificial">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 cybersecurity-toolkit</h3>
+      <p>Suite educativa de ciberseguridad orientada al aprendizaje práctico mediante herramientas ejecutables en entornos controlados.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/martinezmarcos93/cybersecurity-toolkit">
+          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -122,61 +197,6 @@ const developer = {
     <img alt="Snake animation" src="https://raw.githubusercontent.com/martinezmarcos93/martinezmarcos93/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
-
----
-
-### 🚀 Proyectos destacados
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI_NARRATOR</h3>
-      <p>Sistema narrador de TTRPG impulsado por LLMs locales. Agentes especializados mantienen la coherencia del mundo mientras un modelo 7B narra en tiempo real.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        &nbsp;
-        <a href="https://github.com/martinezmarcos93/AI_NARRATOR">
-          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 psyche_simulacra</h3>
-      <p>Simulación ABM con 100+ individuos psicológicamente complejos que generan jerarquías, símbolos, tabúes y rituales sin guión previo.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        &nbsp;
-        <a href="https://github.com/martinezmarcos93/psyche_simulacra">
-          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 cerebro_artificial</h3>
-      <p>Sistema de gestión de conocimiento que aprende por etapas, forma enlaces por impulso interno y materializa conflictos como conocimiento de orden superior.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        &nbsp;
-        <a href="https://github.com/martinezmarcos93/cerebro_artificial">
-          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 CyberToolkit</h3>
-      <p>Suite educativa de ciberseguridad con herramientas operativas para aprendizaje práctico en entornos controlados.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        &nbsp;
-        <a href="https://github.com/martinezmarcos93/CyberToolkit">
-          <img src="https://img.shields.io/badge/Ver%20repo-e94560?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
